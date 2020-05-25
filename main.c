@@ -8,7 +8,7 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
-<<<<<<< HEAD
+
 }   
 fearture(){
 //feature1 added
@@ -21,6 +21,8 @@ feature2(){
 //feature2 added
  feature2
 }
-
+sercurity patch1(){
+//security patch1 added
+}
 
 }
