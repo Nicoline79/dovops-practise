@@ -8,7 +8,7 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
-<<<<<<< HEAD
+
 }   
 fearture(){
 //feature1 added
